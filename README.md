@@ -77,9 +77,9 @@ Here's a preview of the Supplier Quality Analysis Dashboard:
 
 Overview:
 <p align="center">
-   <img src="https://github.com/abhishekm9396/Supplier-Quality-Analysis/assets/126942017/1a311188-02b2-4d31-9acf-a9c470135e90" width="800" >
+   <img src="https://github.com/abhishekm9396/Supplier-Quality-Analysis/assets/126942017/1a311188-02b2-4d31-9acf-a9c470135e90" width="700" >
 </p>
 Schema:
 <p align="center">
-   <img src="https://github.com/abhishekm9396/Supplier-Quality-Analysis/assets/126942017/dc58146a-776d-4e88-809f-92057c94839b" width="800" >
+   <img src="https://github.com/abhishekm9396/Supplier-Quality-Analysis/assets/126942017/dc58146a-776d-4e88-809f-92057c94839b" width="700" >
 </p>
