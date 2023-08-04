@@ -21,8 +21,8 @@ The data used for this analysis includes information on supplier names, product 
 
 | Files/Folder| Description |
 | ------------- | ------------- |
-| **CSV Files** | This csv contains 2017-2021 data containing details of orders, category, defect type, material type, location, etc. |
-| **Dashboard PBIX** | This file contains final dashboards created with Microsoft Power BI |
+| **supplier_quality_analysis_data.xlsx** | This excel file contains 2017-2021 data including details of orders, category, defect type, material type, location, etc. |
+| **supplier_quality_analysis_dashboard.pbix** | This file contains final dashboards created with Microsoft Power BI |
 <br>
 <p align="center">
    <img src="https://camo.githubusercontent.com/e8dd5ec0043e31dbce1d2bef237bb4aba9e30d424356808e358d656134fd3739/68747470733a2f2f68656c6c6f6675747572652e6f72616e67652e636f6d2f6170702f75706c6f6164732f323031372f31302f4d65746965725f4c6f67697374696369656e2e676966" width="400" >
