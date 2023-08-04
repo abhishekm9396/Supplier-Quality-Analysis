@@ -1,6 +1,6 @@
 # Supplier-Quality-Analysis
 
-Welcome to the Supplier Quality Analysis dashboard! This Power BI project provides a comprehensive overview of our suppliers' performance across key metrics, enabling us to monitor their quality and identify areas for improvement. By analyzing data related to Total Defectives, Type of Defects, Defects Outcome, Downtime, and more, we can work collaboratively with our suppliers to ensure they meet our quality standards consistently. The analysis provides insights into supplier performance, defect rates, and trends over time.
+Welcome to the Supplier Quality Analysis dashboard! This Power BI project provides a comprehensive overview of suppliers' performance across key metrics, enabling us to monitor their quality and identify areas for improvement. By analyzing data related to Total Defectives, Type of Defects, Defects Outcome, Downtime, and more, we can work collaboratively with our suppliers to ensure they meet our quality standards consistently. The analysis provides insights into supplier performance, defect rates, and trends over time.
 
 The dashboard is designed to facilitate data-driven decision-making and enhance overall supply chain efficiency by fostering a culture of continuous improvement.
 
